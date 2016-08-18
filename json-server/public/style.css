@@ -1,0 +1,56 @@
+/*body {
+    background-image: url("empll.jpg");
+    background-size: 1380px 960px;
+    background-repeat: no-repeat;
+    background-color: wheat;
+}
+*/
+#hed {
+    /*background-color: ;*/
+    color: violet;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'italic';
+    text-shadow: 2px 2px black;
+    color: #5C9C91;
+    text-decoration: dotted;
+    margin-top: 90px;
+    padding-top: 60px;
+}
+
+.well {
+    height: 130px;
+    background-color: black;
+}
+
+
+ .myNavbar{
+        margin-right: 1660px;
+        margin-top: 90px;
+    }
+/*table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    width: 1160px;
+}
+*/
+th {
+    background-color: #4CAF50;
+    color: green;
+    font-size: 70px;
+}
+
+td {
+    color: blue;
+    font-size: 20px;
+}
+
+

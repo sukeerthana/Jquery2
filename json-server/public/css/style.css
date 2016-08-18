@@ -1,0 +1,106 @@
+/*body {
+    background-image: url("../mattt.jpg");
+    background-size: 1380px 960px;
+    
+    
+     
+}*/
+/*body{
+    background-color: wheat;
+}*/
+.navbar-brand {
+    background: url('../mat.png') center / contain no-repeat;
+    width: 300px;
+    margin-top: 0px;
+}
+
+.bg-image {
+    background-image: url('../matrimed.jpg');
+    background-size: 100%;
+}
+
+.bgimage-inside {
+    padding-top: 37.36%;
+    /* this is actually (426/1140)*100 */
+}
+
+.inner-addon {
+    position: relative;
+}
+
+
+/* style icon */
+
+.inner-addon .glyphicon {
+    position: absolute;
+    padding: 16px;
+    pointer-events: none;
+}
+
+
+/* align icon */
+
+.left-addon .glyphicon {
+    left: 0px;
+}
+
+.right-addon .glyphicon {
+    right: 0px;
+}
+
+
+/* add padding  */
+
+.left-addon input {
+    padding-left: 30px;
+}
+
+.right-addon input {
+    padding-right: 20px;
+}
+tr td .edit {
+    display: none;
+}
+
+tr td.edit .edit {
+    display: initial;
+}
+tr td.edit .noedit {
+    display: none;
+}
+
+#det {
+    padding-top: 20px;
+    margin-top: 90px;
+}
+
+
+/*.bgimage {
+background-image: url(../mattt.jpg);
+background-size: 100%;
+}
+.bgimage-inside {
+padding-top: 37.36%; /* this is actually (426/1140)*100 */
+/*
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 1860px;
+    padding: 75px;
+    text-align: center;
+}*/
+#new-board-btn {
+    white-space: normal;
+}
+th {
+    background-color: #4CAF50;
+    color: black;
+    font-size: 20px;
+}
+
+td {
+    color: blue;
+    font-size: 20px;
+}
